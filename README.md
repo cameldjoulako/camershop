@@ -1,6 +1,6 @@
 #camershop
 
-Plateforme de vente en ligne (ecommerce): Projet de Licencence en informatique - Université de Dschang
+Plateforme de vente en ligne (ecommerce): Projet de Licence en informatique - Université de Dschang
 Application web développé en Java EE
 
 #Technologies utilisés
