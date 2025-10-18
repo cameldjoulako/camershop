@@ -1,13 +1,7 @@
 #camershop
 
-Plateforme de vente en ligne (ecommerce): Projet de Licence en informatique - Université de Dschang
-Application web développé en Java EE
+Online sales platform (e-commerce): Bachelor's degree project in computer science - University of Dschang Web application developed in Java EE
 
-#Technologies utilisés
-HTML, CSS, Javascript, Ajax, Jsp, SQL, Java, Bootstrapt, JQuery...
-MTN MObile Money API pour le paiement en ligne
+#Technologies used HTML, CSS, Javascript, Ajax, Jsp, SQL, Java, Bootstrapt, JQuery... MTN Mobile Money API for online payment
 
-La conception et Modélisaton de l'application jusqu'à son développement et déploiement a été fait avec mes Camarades:
-@Adrienne
-@Legrand
-@Franck
+The design and modeling of the application, through to its development and deployment, was carried out with my colleagues: @Adrienne @Legrand @Franck
