@@ -1,8 +1,3 @@
-<%-- 
-    Document   : login
-    Created on : 1 juil. 2019, 09:42:24
-    Author     : Nkainsa Legrand
---%>
 
 <%@page pageEncoding="UTF-8" %>
 
